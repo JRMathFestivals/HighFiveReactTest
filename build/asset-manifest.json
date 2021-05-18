@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c398a331.chunk.css",
+    "main.js": "/static/js/main.64f660e1.chunk.js",
+    "main.js.map": "/static/js/main.64f660e1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.517754cb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.517754cb.js.map",
+    "static/js/2.5d8fb17f.chunk.js": "/static/js/2.5d8fb17f.chunk.js",
+    "static/js/2.5d8fb17f.chunk.js.map": "/static/js/2.5d8fb17f.chunk.js.map",
+    "static/js/3.a1f1d68a.chunk.js": "/static/js/3.a1f1d68a.chunk.js",
+    "static/js/3.a1f1d68a.chunk.js.map": "/static/js/3.a1f1d68a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c398a331.chunk.css.map": "/static/css/main.c398a331.chunk.css.map",
+    "static/js/2.5d8fb17f.chunk.js.LICENSE.txt": "/static/js/2.5d8fb17f.chunk.js.LICENSE.txt",
+    "static/media/BorderPerson.606f58d2.png": "/static/media/BorderPerson.606f58d2.png",
+    "static/media/BorderPerson_New.890f2555.png": "/static/media/BorderPerson_New.890f2555.png",
+    "static/media/Person.6dc579dc.png": "/static/media/Person.6dc579dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517754cb.js",
+    "static/js/2.5d8fb17f.chunk.js",
+    "static/css/main.c398a331.chunk.css",
+    "static/js/main.64f660e1.chunk.js"
+  ]
+}
